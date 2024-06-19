@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "impracticality:item/deepslate_sword"
+  }
+}
