@@ -3,6 +3,7 @@ package mommiissues.impracticality;
 import com.google.common.base.Suppliers;
 
 import net.minecraft.block.Block;
+import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
 import net.minecraft.registry.RegistryKeys;
@@ -15,7 +16,7 @@ import java.util.function.Supplier;
 
 public enum ImpracticalToolMaterials implements ToolMaterial
 {
-    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 262, 5f, 1.5f, 9, () -> Ingredient.fromTag(TagKey.of(RegistryKeys.ITEM, Identifier.of(Impracticality.MOD_ID, "deepslate_tool_materials"))));
+    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 262, 4.75f, 1.3f, 9, () -> Ingredient.ofItems(Items.COBBLED_DEEPSLATE));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

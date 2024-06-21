@@ -3,16 +3,16 @@
 	"category": "equipment",
 	"key": {
 		"#": {
-			"item": "minecraft:cobbled_deepslate"
+			"item": "minecraft:stick"
 		},
 		"X": {
-			"tag": "minecraft:stone_pickaxe"
+			"item": "minecraft:cobbled_deepslate"
 		}
 	},
 	"pattern": [
-		"###",
-		"#X#",
-		"###"
+		"XXX",
+		" # ",
+		" # "
 	],
 	"result": {
 		"count": 1,
