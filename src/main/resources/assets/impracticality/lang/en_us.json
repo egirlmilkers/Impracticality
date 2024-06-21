@@ -9,5 +9,11 @@
   "block.impracticality.spoiled_ground_flesh_block": "Spoiled Ground Flesh Cube",
   "block.impracticality.rotten_ground_flesh_block": "Rotten Ground Flesh Cube",
   "block.impracticality.decayed_ground_flesh_block": "Decayed Ground Flesh Cube",
-  "tag.item.impracticality.raw_meats": "Raw Meats"
+  "tag.item.impracticality.raw_meats": "Raw Meats",
+  "tag.item.impracticality.deepslate_tool_materials": "Deepslate Tool Materials",
+  "item.impracticality.deepslate_sword": "Deepslate Sword",
+  "item.impracticality.deepslate_shovel": "Deepslate Shovel",
+  "item.impracticality.deepslate_pickaxe": "Deepslate Pickaxe",
+  "item.impracticality.deepslate_axe": "Deepslate Axe",
+  "item.impracticality.deepslate_hoe": "Deepslate Hoe"
 }
