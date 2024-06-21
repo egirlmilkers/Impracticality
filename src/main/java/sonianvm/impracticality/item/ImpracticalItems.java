@@ -53,7 +53,7 @@ public class ImpracticalItems
 	}
 
 	public static Item register(BlockItem item) {
-		return Items.register(item.getBlock(), (Item)item);
+		return Items.register(item.getBlock(), item);
 	}
 
 	public static Item register(Block block, Item item) {
