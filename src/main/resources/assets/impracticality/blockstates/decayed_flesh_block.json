@@ -1,0 +1,78 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "impracticality:block/decayed_flesh_block"
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"x": 90
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"x": 180
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"x": 270
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 90
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 90,
+				"x": 90
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 90,
+				"x": 180
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 90,
+				"x": 270
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 180
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 180,
+				"x": 90
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 180,
+				"x": 180
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 180,
+				"x": 270
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 270
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 270,
+				"x": 90
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 270,
+				"x": 180
+			},
+			{
+				"model": "impracticality:block/decayed_flesh_block",
+				"y": 270,
+				"x": 270
+			}
+		]
+	}
+}

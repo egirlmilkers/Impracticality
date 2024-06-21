@@ -1,0 +1,13 @@
+{
+	"replace": false,
+	"values": [
+		"impracticality:flesh_block",
+		"impracticality:spoiled_flesh_block",
+		"impracticality:decayed_flesh_block",
+		"impracticality:rotten_flesh_block",
+		"impracticality:ground_flesh_block",
+		"impracticality:spoiled_ground_flesh_block",
+		"impracticality:decayed_ground_flesh_block",
+		"impracticality:rotten_ground_flesh_block"
+	]
+}

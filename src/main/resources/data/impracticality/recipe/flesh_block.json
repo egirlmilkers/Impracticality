@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"key": {
+		"R": {
+			"tag": "impracticality:raw_meats"
+		}
+	},
+	"pattern": [
+		"RR",
+		"RR"
+	],
+	"result": {
+		"count": 4,
+		"id": "impracticality:flesh_block"
+	}
+}
