@@ -1,5 +1,5 @@
 # Impracticality
-### An impractical Minecraft mod that impractical things.
+### An impractical Minecraft mod that adds impractical things.
 #### **Author** - [SoniaNvm](https://namemc.com/profile/SoniaNvm)
 ## Support
 Version | Fabric | Forge
