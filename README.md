@@ -10,7 +10,6 @@ older | ❌ | ❌
 ## Features
 - Flesh Cubes that can and will decay over time
 - Ground variants of the above
-### In progress
-- Deepslate tools
-### TODO
+- Deepslate
+### Todo
 - Specific textures when mobs are named certain things
