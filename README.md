@@ -1,6 +1,6 @@
 # Impracticality
 ### An impractical Minecraft mod that impractical things.
-#### **Author** - [MommiIssues](https://namemc.com/profile/MommiIssues)
+#### **Author** - [SoniaNvm](https://namemc.com/profile/SoniaNvm)
 ## Support
 Version | Fabric | Forge
 --- | :---: | :---:
