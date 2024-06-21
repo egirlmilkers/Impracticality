@@ -6,17 +6,16 @@ import net.minecraft.block.Block;
 import net.minecraft.item.Items;
 import net.minecraft.item.ToolMaterial;
 import net.minecraft.recipe.Ingredient;
-import net.minecraft.registry.RegistryKeys;
 import net.minecraft.registry.tag.BlockTags;
 import net.minecraft.registry.tag.TagKey;
-import net.minecraft.util.Identifier;
 
 import java.util.function.Supplier;
 
 
 public enum ImpracticalToolMaterials implements ToolMaterial
 {
-    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 262, 4.75f, 1.3f, 9, () -> Ingredient.ofItems(Items.COBBLED_DEEPSLATE));
+    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 174, 3.0f, 1.4f, 9, () -> Ingredient.ofItems(Items.COBBLED_DEEPSLATE)),
+    BLACKSTONE(BlockTags.INCORRECT_FOR_STONE_TOOL, 99, 9.5f, 1.0f, 16, () -> Ingredient.ofItems(Items.BLACKSTONE));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;

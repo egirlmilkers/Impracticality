@@ -15,8 +15,6 @@ import net.minecraft.util.Identifier;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 //JAVA
-import java.util.HashMap;
-import java.util.Map;
 
 
 public class Impracticality implements ModInitializer
@@ -49,6 +47,12 @@ public class Impracticality implements ModInitializer
 				entries.add(ImpracticalItems.DEEPSLATE_PICKAXE);
 				entries.add(ImpracticalItems.DEEPSLATE_AXE);
 				entries.add(ImpracticalItems.DEEPSLATE_HOE);
+				entries.add(ImpracticalItems.BLACKSTONE_SWORD);
+				entries.add(ImpracticalItems.BLACKSTONE_SHOVEL);
+				entries.add(ImpracticalItems.BLACKSTONE_PICKAXE);
+				entries.add(ImpracticalItems.BLACKSTONE_AXE);
+				entries.add(ImpracticalItems.BLACKSTONE_HOE);
+				entries.add(ImpracticalItems.CRAFTING_BOOK);
 			})
 			.build()
 		);

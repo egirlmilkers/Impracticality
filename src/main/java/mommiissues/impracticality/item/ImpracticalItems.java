@@ -20,6 +20,12 @@ public class ImpracticalItems
 	public static final Item DEEPSLATE_PICKAXE = ImpracticalItems.register("deepslate_pickaxe", new PickaxeItem(ImpracticalToolMaterials.DEEPSLATE, new Item.Settings().attributeModifiers(PickaxeItem.createAttributeModifiers(ImpracticalToolMaterials.DEEPSLATE, 1.0f, -2.8f))));
 	public static final Item DEEPSLATE_AXE = ImpracticalItems.register("deepslate_axe", new AxeItem(ImpracticalToolMaterials.DEEPSLATE, new Item.Settings().attributeModifiers(AxeItem.createAttributeModifiers(ImpracticalToolMaterials.DEEPSLATE, 7.0f, -3.2f))));
 	public static final Item DEEPSLATE_HOE = ImpracticalItems.register("deepslate_hoe", new HoeItem(ImpracticalToolMaterials.DEEPSLATE, new Item.Settings().attributeModifiers(HoeItem.createAttributeModifiers(ImpracticalToolMaterials.DEEPSLATE, -1.0f, -2.0f))));
+	public static final Item BLACKSTONE_SWORD = ImpracticalItems.register("blackstone_sword", new SwordItem(ImpracticalToolMaterials.BLACKSTONE, new Item.Settings().attributeModifiers(SwordItem.createAttributeModifiers(ImpracticalToolMaterials.BLACKSTONE, 3, -2.4f))));
+	public static final Item BLACKSTONE_SHOVEL = ImpracticalItems.register("blackstone_shovel", new ShovelItem(ImpracticalToolMaterials.BLACKSTONE, new Item.Settings().attributeModifiers(ShovelItem.createAttributeModifiers(ImpracticalToolMaterials.BLACKSTONE, 1.5f, -3.0f))));
+	public static final Item BLACKSTONE_PICKAXE = ImpracticalItems.register("blackstone_pickaxe", new PickaxeItem(ImpracticalToolMaterials.BLACKSTONE, new Item.Settings().attributeModifiers(PickaxeItem.createAttributeModifiers(ImpracticalToolMaterials.BLACKSTONE, 1.0f, -2.8f))));
+	public static final Item BLACKSTONE_AXE = ImpracticalItems.register("blackstone_axe", new AxeItem(ImpracticalToolMaterials.BLACKSTONE, new Item.Settings().attributeModifiers(AxeItem.createAttributeModifiers(ImpracticalToolMaterials.BLACKSTONE, 7.0f, -3.2f))));
+	public static final Item BLACKSTONE_HOE = ImpracticalItems.register("blackstone_hoe", new HoeItem(ImpracticalToolMaterials.BLACKSTONE, new Item.Settings().attributeModifiers(HoeItem.createAttributeModifiers(ImpracticalToolMaterials.BLACKSTONE, -1.0f, -2.0f))));
+	public static final Item CRAFTING_BOOK = ImpracticalItems.register("crafting_book", new CraftingBookItem(new Item.Settings().maxCount(1)));
 	// BLOCKS
 	public static final Item FLESH_BLOCK = ImpracticalItems.register(ImpracticalBlocks.FLESH_BLOCK);
 	public static final Item SPOILED_FLESH = ImpracticalItems.register(ImpracticalBlocks.SPOILED_FLESH);
