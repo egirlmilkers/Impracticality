@@ -8,8 +8,9 @@ Version | Fabric | Forge
 1.20.x | ❌ | ❌
 older | ❌ | ❌
 ## Features
-- None currently.
+- Flesh Cubes that can and will decay over time
+- Ground variants of the above
 ### In progress
-- N/A
+- Deepslate tools
 ### TODO
 - Specific textures when mobs are named certain things
