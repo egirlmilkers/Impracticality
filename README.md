@@ -1,5 +1,5 @@
-# Impractility
-### A Minecraft mod that adds silly stuff for friends.
+# Impracticality
+### An impractical Minecraft mod that impractical things.
 #### **Author** - [MommiIssues](https://namemc.com/profile/MommiIssues)
 ## Support
 Version | Fabric | Forge
@@ -11,9 +11,11 @@ older | ❌ | ❌
 - Flesh Cubes that can and will decay over time.
 - Ground variants of the above.
 - Deepslate tools.
+- Blackstone tools.
+- Portable crafting table.
 ### Vanilla Changes
 - Stone tools can no longer be made/repaired with deepslate or blackstone.
 ### Todo
 - Specific textures when mobs are named certain things.
-- Blackstone tools.
-- Portable crafting table.
+- Auto-Smelting enchantment.
+- Enchantment that causes drops to appear automatically in your inventory.
