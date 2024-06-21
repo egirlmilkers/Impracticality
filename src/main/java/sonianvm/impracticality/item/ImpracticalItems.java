@@ -1,8 +1,8 @@
-package mommiissues.impracticality.item;
+package sonianvm.impracticality.item;
 
-import mommiissues.impracticality.ImpracticalToolMaterials;
-import mommiissues.impracticality.Impracticality;
-import mommiissues.impracticality.block.ImpracticalBlocks;
+import sonianvm.impracticality.ImpracticalToolMaterials;
+import sonianvm.impracticality.Impracticality;
+import sonianvm.impracticality.block.ImpracticalBlocks;
 import net.minecraft.block.Block;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;

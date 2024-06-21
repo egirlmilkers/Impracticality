@@ -1,6 +1,6 @@
-package mommiissues.impracticality.block;
+package sonianvm.impracticality.block;
 
-import mommiissues.impracticality.Impracticality;
+import sonianvm.impracticality.Impracticality;
 import net.fabricmc.fabric.api.registry.OxidizableBlocksRegistry;
 import net.minecraft.block.AbstractBlock;
 import net.minecraft.block.Block;

@@ -1,4 +1,4 @@
-package mommiissues.impracticality.item;
+package sonianvm.impracticality.item;
 
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.entity.player.PlayerInventory;

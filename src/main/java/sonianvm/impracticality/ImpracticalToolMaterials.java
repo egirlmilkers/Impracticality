@@ -1,4 +1,4 @@
-package mommiissues.impracticality;
+package sonianvm.impracticality;
 
 import com.google.common.base.Suppliers;
 

@@ -1,7 +1,7 @@
-package mommiissues.impracticality;
+package sonianvm.impracticality;
 
-import mommiissues.impracticality.block.ImpracticalBlocks;
-import mommiissues.impracticality.item.*;
+import sonianvm.impracticality.block.ImpracticalBlocks;
+import sonianvm.impracticality.item.*;
 //FABRIC
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.itemgroup.v1.FabricItemGroup;
