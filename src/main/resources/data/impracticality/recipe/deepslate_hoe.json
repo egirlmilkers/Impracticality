@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"#": {
+			"item": "minecraft:cobbled_deepslate"
+		},
+		"X": {
+			"tag": "minecraft:stone_hoe"
+		}
+	},
+	"pattern": [
+		"###",
+		"#X#",
+		"###"
+	],
+	"result": {
+		"count": 1,
+		"id": "impracticality:deepslate_hoe"
+	}
+}

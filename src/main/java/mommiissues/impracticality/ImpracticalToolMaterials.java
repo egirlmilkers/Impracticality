@@ -15,7 +15,7 @@ import java.util.function.Supplier;
 
 public enum ImpracticalToolMaterials implements ToolMaterial
 {
-    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 262, 4.5f, 1.1f, 9, () -> Ingredient.fromTag(TagKey.of(RegistryKeys.ITEM, Identifier.of(Impracticality.MOD_ID, "deepslate_tool_materials"))));
+    DEEPSLATE(BlockTags.INCORRECT_FOR_STONE_TOOL, 262, 5f, 1.5f, 9, () -> Ingredient.fromTag(TagKey.of(RegistryKeys.ITEM, Identifier.of(Impracticality.MOD_ID, "deepslate_tool_materials"))));
 
     private final TagKey<Block> inverseTag;
     private final int itemDurability;
