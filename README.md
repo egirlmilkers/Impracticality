@@ -24,3 +24,4 @@ older | ❌ | ❌ | ❌
 - Specific textures when mobs are named certain things.
 - Auto-Smelting enchantment.
 - Enchantment that causes drops to appear automatically in your inventory.
+- Woodcutter
