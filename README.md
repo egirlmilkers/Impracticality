@@ -2,11 +2,8 @@
 ### An impractical Minecraft mod that adds impractical things.
 #### **Author** - [SoniaNvm](https://namemc.com/profile/SoniaNvm)
 ## Support
-Version | Fabric | Forge
---- | :---: | :---:
-1.21.0 | ✔️ | ❌
-1.20.x | ❌ | ❌
-older | ❌ | ❌
+### You are currently on the 1.21.0 branch
+### ✔️ Fabric | ❌ Forge | ❌ NeoForge 
 ## Features
 - Flesh Cubes that can and will decay over time.
 - Ground variants of the above.
