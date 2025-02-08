@@ -2,6 +2,7 @@
 ### An impractical Minecraft mod that adds impractical things.
 #### **Author** - [SoniaNvm](https://namemc.com/profile/SoniaNvm)
 ## Support
+### You are currently on the 1.21.4 branch!
 Version | Fabric | Forge | NeoForge
 --- | :---: | :---: | :---:
 1.21.4 | ✔️ | ✔️ | ✔️
